@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\obj\Debug\FootballStadiumSimulator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\obj\Debug\FootballStadiumSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\bin\Debug\FootballStadiumSimulator.exe.config
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\bin\Debug\FootballStadiumSimulator.exe
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\bin\Debug\FootballStadiumSimulator.pdb
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\obj\Debug\FootballStadiumSimulator.exe
+C:\Users\Admin\source\repos\FootballStadiumSimulator\FootballStadiumSimulator\obj\Debug\FootballStadiumSimulator.pdb
